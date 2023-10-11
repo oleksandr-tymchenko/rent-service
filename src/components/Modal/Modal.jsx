@@ -39,7 +39,7 @@ export default function BasicModal({ open, onClose, data }) {
     make,
     year,
     address,
-    rentalCompany,
+    // rentalCompany,
     type,
     model,
     mileage,
