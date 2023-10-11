@@ -1,35 +1,31 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "rent-service",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oleksandr-tymchenko.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://oleksandr-tymchenko.github.io/rent-service/",
   "dependencies": {
-    "@chakra-ui/react": "^2.7.1",
-    "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@redux-devtools/extension": "^3.2.5",
+    "@mui/icons-material": "^5.14.12",
+    "@mui/material": "^5.14.12",
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
-    "formik": "^2.2.9",
-    "framer": "^2.3.0",
-    "motion": "^10.16.2",
     "nanoid": "^4.0.2",
-    "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-helmet": "^6.1.0",
-    "react-loader-spinner": "^5.3.4",
+    "react-icons": "^4.11.0",
+    "react-loader-spinner": "^5.4.5",
     "react-redux": "^8.1.1",
-    "react-router-dom": "^6.14.1",
+    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
-    "react-toastify": "^9.1.3",
+    "react-select": "^5.7.7",
+    "react-use": "^17.4.0",
     "redux": "^4.2.1",
     "redux-persist": "^6.0.0",
-    "web-vitals": "^2.1.3",
-    "yup": "^1.2.0"
+    "styled-components": "^5.3.11",
+    "web-vitals": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,5 +51,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![Page](./assets/Popup.png) Створити застосунок для компанії, що надає послуги надання в Україні автомобілів в оренду. Застосунок складається з 3х сторінок:",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
