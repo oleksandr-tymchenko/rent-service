@@ -51,6 +51,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-  
+  },
+  "description": " Створити застосунок для компанії, що надає послуги надання в Україні автомобілів в оренду. Застосунок складається з 3х сторінок:",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
 }
